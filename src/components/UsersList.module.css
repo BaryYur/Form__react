@@ -1,0 +1,9 @@
+.list-container ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 50px;
+}
+
+.list-container li {
+    display: block;
+}

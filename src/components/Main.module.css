@@ -1,0 +1,28 @@
+.main-container {
+    display: flex;
+    padding: 100px 0;
+}
+
+main {
+    margin: 0 auto;
+    position: relative;
+}
+
+.users-container {
+    width: 920px;
+}
+
+main section .fetch-button {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-bottom: 100px;
+}
+
+.error {
+    text-align: center;
+    font-size: 19px;
+    font-weight: 700;
+    padding-top: 100px;
+}

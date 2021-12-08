@@ -1,0 +1,22 @@
+.user {
+    width: 300px;
+    text-align: center;
+    padding: 30px;
+    border-radius: 4px;
+    border: 1px solid grey;
+    margin: 20px auto;
+    display: block;
+    background-color: rgba(230, 230, 250, 0.664);
+}
+
+.user div:first-child {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(63, 63, 63);
+}
+
+.user div:last-child {
+    font-size: 24px;
+    font-weight: 600;
+    color: indianred;
+}
